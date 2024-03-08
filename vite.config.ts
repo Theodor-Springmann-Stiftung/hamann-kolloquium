@@ -18,6 +18,7 @@ export default defineConfig({
         kontakt: resolve(__dirname, 'kontakt.html'),
         datenschutzerklaerung: resolve(__dirname, 'datenschutzerklaerung.html'),
         acta: resolve(__dirname, 'acta-baende.html'),
+        kol13: resolve(__dirname, '13-kolloquium.html'),
         studien: resolve(__dirname, 'studien.html'),
       }
     }
