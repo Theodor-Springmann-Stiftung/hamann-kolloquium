@@ -1,5 +1,5 @@
 services:
-  hamann-kolloquium:
+  hamannkolloquium:
     build:
       context: .
       dockerfile: Dockerfile
